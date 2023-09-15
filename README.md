@@ -2,7 +2,7 @@
   # AlmaBetter Verfied Project - AlmaBetter
 
 <p align="center">
-  <img src="![netflix-netflix-logo](https://github.com/Radhika190/Netflix-Movies-And-Tv-Shows-Clustering-Unsupervised-ML-Project/assets/128241822/a060d112-bab2-42eb-ba12-a7a8a12d6c78)">
+  <img src="![download](https://github.com/Radhika190/Netflix-Movies-And-Tv-Shows-Clustering-Unsupervised-ML-Project/assets/128241822/e49b19ec-f664-49f5-9a5c-534fcf34de92)">
 </p>
 
 I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
